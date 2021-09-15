@@ -28,7 +28,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "rustc --version",
+	 "postCreateCommand": "rustc --version",
 
 	// Comment out to run as root instead.
 	"remoteUser": "vscode"
